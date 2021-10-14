@@ -1,2 +1,2 @@
 # Rand2AI Team
-Rand2AI reading group, seminar talk and team activity at the Department of Computer Science, Swansea University, UK
+We are a research team in [Computer Vision and Machine Learning Lab](http://csvision.swansea.ac.uk/) at Swansea University. We focuse on the general research questions in machine learning ranging from theory, through to methodology and application.
