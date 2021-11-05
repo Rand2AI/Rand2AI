@@ -18,8 +18,8 @@ We are a research team of [Computer Vision and Machine Learning Lab](http://csvi
 
 
 ## Project
-*"It's not who we are underneath, but what we do that defines us." - Rachel Dawes in Batman Begins*
+*"It's not who we are underneath, but what we do that defines us." - Rachel Dawes from Batman Begins*
 
 
 ## People
-*"In fact, the world needs more nerds." - Ben Bernanke*
+*"If outside is so good, why has mankind spent thousands of years trying to perfect inside?" - Sheldon Cooper from The Big Bang Theory*
