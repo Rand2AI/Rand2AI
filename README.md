@@ -8,5 +8,8 @@ We are a research team of [Computer Vision and Machine Learning Lab](http://csvi
 ![](./newz.gif) Nov 2021 - Our paper, namely *3D Interactive Segmentation with Semi-Implicit Representation and Active Learning* by Jingjing Deng and Xianghua Xie is accepted by IEEE Transactions on Image Processing.
 
 ## Publication
+### 2021
+1. Jingjing Deng and Xianghua Xie, 3D Interactive Segmentation with Semi-Implicit Representation and Active Learning, IEEE Transactions on Image Processing, 2021. (Accepted)
+
 
 ## Soft/Hard-wares
