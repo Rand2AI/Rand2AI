@@ -12,4 +12,9 @@ We are a research team of [Computer Vision and Machine Learning Lab](http://csvi
 1. Jingjing Deng and Xianghua Xie, 3D Interactive Segmentation with Semi-Implicit Representation and Active Learning, IEEE Transactions on Image Processing, 2021. (Accepted)
 
 
-## Soft/Hard-wares
+## Soft/Hard Wares
+
+## Project
+
+## People
+*It's not who we are underneath, but what we do that defines us.*
