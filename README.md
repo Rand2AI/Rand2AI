@@ -18,8 +18,8 @@ We are a research team of [Computer Vision and Machine Learning Lab](http://csvi
 
 
 ## Project
-*"It's not who we are underneath, but what we do that defines us." - Rachel Dawes from Batman Begins*
+*"If outside is so good, why has mankind spent thousands of years trying to perfect inside?" - Sheldon Cooper from The Big Bang Theory*
 
 
 ## People
-*"If outside is so good, why has mankind spent thousands of years trying to perfect inside?" - Sheldon Cooper from The Big Bang Theory*
+*"It's not who we are underneath, but what we do that defines us." - Rachel Dawes from Batman Begins*
